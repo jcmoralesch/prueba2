@@ -1,2 +1,2 @@
 # prueba2
-Empezando prueba con github
+Empezando prueba con github, para probar sus bondades
